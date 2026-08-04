@@ -1,4 +1,8 @@
-<b>Building, breaking, and shipping web things.</b> Always open to any collaboration.
+```
+Welcome to my page, My name is Rio. Good to see ya! 👋
+Building, breaking, and shipping web things.
+Always open to any collaboration.
+```
 
 <img data-importer="image" align="right"  width="200" height="200" alt="240825300-17f8a48d-4ab3-4e58-bd5a-bf181f4c3d90" src="https://github.com/user-attachments/assets/358f2ef5-92a9-43c4-b503-8a4644953c43" />
 
