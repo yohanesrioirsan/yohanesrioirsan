@@ -1,2 +1,1 @@
-i code in production
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yohanesrioirsan&label=Profile%20views&color=0e75b6&style=flat" alt="yohanesrioirsan" /> </p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=yohanesrioirsan&theme=transparent&hide_border=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
